@@ -1,5 +1,4 @@
 
-
 🚀 Branch bilan ishlash qo‘llanmasi (tool-generator-api)
 🔹 1. Lokal kodingizni tool-generator-api branch sifatida push qilish
 git push -u origin HEAD:tool-generator-api
