@@ -39,6 +39,19 @@ Thumbs.db
 *.log
 *.env
 #ishlanayotgan papkalarini taqiqlash
+apps/**/*
+backend/**/*
+frontend/**/*
+bots/**/*
+scripts/**/*
+aiprojects/**/*
+# -----------------------------------------------------------------------------
+!apps/**/*.md
+!backend/**/*.md
+!frontend/**/*.md
+!bots/**/*.md
+!scripts/**/*.md
+!aiprojects/**/*.md
 # files/**/*
 # !files/*
 # !files/finish/
